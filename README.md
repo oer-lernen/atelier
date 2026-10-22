@@ -26,6 +26,7 @@ Alles steckt in **einer einzigen HTML-Datei** und erfordert keine Installation, 
 - 💾 **Speichern** – lädt das Bild als PNG-Datei auf das eigene Gerät
 - ⛶ **Vollbild** – blendet die Browserleiste aus (wird auf Geräten ohne Unterstützung automatisch ausgeblendet)
 - 🔊 **Ton an/aus** – alle Klänge werden live im Browser erzeugt
+- 🏠 **Zur Startseite** – führt zu prima.kommakatze.de (fragt vorher, weil ein ungespeichertes Bild verloren ginge; offline ausgeblendet)
 - 🐱 **Komma** – blinzelt, freut sich mit Herzchen und Sternen und miaut, wenn man sie antippt
 - ⌨️ **Strg + Z** – Rückgängig per Tastatur
 
@@ -49,4 +50,4 @@ Eigene Stempel lassen sich im Code im Abschnitt `STAMPS` ergänzen: Jedes Motiv 
 **„Kommas Atelier“** von Sebastian Wolf steht unter der Lizenz [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 Du darfst das Programm teilen und bearbeiten – auch für den Unterricht und in eigenen Projekten –, wenn du den Urheber und die Lizenz nennst und Bearbeitungen unter derselben Lizenz weitergibst.
 Die Bilder, die mit dem Programm gemalt werden, gehören den Kindern, die sie gemalt haben.
-**Transparenzhinweis:** Diese Anwendung wurde mit Hilfe der KI Claude Opus 5.5 erstellt. 
+**Transparenzhinweis:** Programmiert mit Unterstützung von KI (Claude, Anthropic). Idee, Inhalte und fachliche Prüfung: Sebastian Wolf. 
